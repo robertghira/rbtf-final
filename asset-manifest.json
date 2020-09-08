@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rbtf-final/static/css/main.55e36c6d.chunk.css",
+    "main.js": "/rbtf-final/static/js/main.acf8b5a8.chunk.js",
+    "main.js.map": "/rbtf-final/static/js/main.acf8b5a8.chunk.js.map",
+    "runtime-main.js": "/rbtf-final/static/js/runtime-main.db1f1b09.js",
+    "runtime-main.js.map": "/rbtf-final/static/js/runtime-main.db1f1b09.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/rbtf-final/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.581309ac.chunk.js": "/rbtf-final/static/js/2.581309ac.chunk.js",
+    "static/js/2.581309ac.chunk.js.map": "/rbtf-final/static/js/2.581309ac.chunk.js.map",
+    "index.html": "/rbtf-final/index.html",
+    "precache-manifest.1549b655d5971f1ddeb3809105b9a40c.js": "/rbtf-final/precache-manifest.1549b655d5971f1ddeb3809105b9a40c.js",
+    "service-worker.js": "/rbtf-final/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/rbtf-final/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.55e36c6d.chunk.css.map": "/rbtf-final/static/css/main.55e36c6d.chunk.css.map",
+    "static/js/2.581309ac.chunk.js.LICENSE.txt": "/rbtf-final/static/js/2.581309ac.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/rbtf-final/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db1f1b09.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.581309ac.chunk.js",
+    "static/css/main.55e36c6d.chunk.css",
+    "static/js/main.acf8b5a8.chunk.js"
+  ]
+}
